@@ -1,6 +1,6 @@
-# Filter feature layer
+# LIVE-CONNECT
 
-This widget demonstrates how to filter a feature layer data source programmatically.
+This is a custom widget for arcgis experience builder that listens to feature filters and shares the filtered data to an external platform. You can customize by changing the API Endpoint where your data is Posted
 
 ## How to use the sample
 
